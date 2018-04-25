@@ -66,7 +66,7 @@ Question:
 
 * What are the units of the weights w?
 
-* The frequency :math:`\nu_{threshold}` is is the poisson rate of the external population sufficient to drive the neurons in the network to the firing threshold. Using Eq. :eq:`eq_nu_threshold`, compute :math:`\nu_{threshold}`. You can do this in Python, e.g. use LIF_spiking_network.FIRING_THRESHOLD for :math:`u_{thr}`, etc.
+* The frequency :math:`\nu_{threshold}` is the poisson rate of the external population sufficient to drive the neurons in the network to the firing threshold. Using Eq. :eq:`eq_nu_threshold`, compute :math:`\nu_{threshold}`. You can do this in Python, e.g. use LIF_spiking_network.FIRING_THRESHOLD for :math:`u_{thr}`, etc.
 
 
 * Refering to Figure 13.7, left panel, what is the meaning of the value 1 on the y-axis (Input). What is the horizontal dashed line designating? How is it related to :math:`u_{thr}`?
